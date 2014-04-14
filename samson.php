@@ -15,5 +15,5 @@ class LightBox extends \samson\core\CompressableExternalModule
 	protected $id = 'lightbox';	
 	
 	/** Module dependencies */
-	protected $requirements = array('SamsonJS', 'less');
+	protected $requirements = array('samsonjs', 'less');
 }
