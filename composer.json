@@ -1,1 +1,1 @@
-{"name":"samsonos/lightbox","author":"Vitaly Iegorov <egorov@samsonos.com>","version":"0.0.1","require":{"SamsonJS":"*.*.*","less":"*.*.*"}}
+{"name":"samsonos/js_lightbox","author":"Vitaly Iegorov <egorov@samsonos.com>","version":"0.0.1","require":{"samsonos/samsonjs":"*.*.*","samsonos/less":"*.*.*"},"license":"Open Software License (OSL) v 3.0","homepage":"http://samsonos.com/"}
