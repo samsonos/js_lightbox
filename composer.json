@@ -1,1 +1,15 @@
-{"name":"samsonos/js_lightbox","author":"Vitaly Iegorov <egorov@samsonos.com>","version":"0.0.1","require":{"samsonos/js_core":"dev-master","samsonos/less":"dev-master"},"license":"Open Software License (OSL) v 3.0","homepage":"http://samsonos.com/"}
+{
+	"name":"samsonos/js_lightbox",
+	"author":{
+		"name":"Vitaly Iegorov",
+		"email":"egorov@samsonos.com",
+		"website":"http://samsonos.com"
+	}
+	"version":"1.0.0",
+	"require":{
+		"samsonos/js_core":"*",
+		"samsonos/php_less":"*"
+	},
+	"license":"Open Software License (OSL) v 3.0",
+	"homepage":"http://samsonos.com/"
+}
