@@ -4,7 +4,7 @@
 		"name":"Vitaly Iegorov",
 		"email":"egorov@samsonos.com",
 		"website":"http://samsonos.com"
-	}
+	},
 	"version":"1.0.0",
 	"require":{
 		"samsonos/js_core":"*",
