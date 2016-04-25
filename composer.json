@@ -8,7 +8,7 @@
 	"version":"1.0.0",
 	"require":{
 		"samsonos/js_core":"*",
-		"samsonos/php_less":"*"
+		"samsonphp/less":"*"
 	},
 	"license":"Open Software License (OSL) v 3.0",
 	"homepage":"http://samsonos.com/"
